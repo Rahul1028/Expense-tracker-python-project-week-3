@@ -1,5 +1,5 @@
 # Expense-tracker-python-project-week-3
-i have created this python project using tkinter and GUI to user friendly and easy to handle expenses
+I have created this python project using tkinter and GUI to user friendly and easy to handle expenses
 start from having Welcome Page which Displays a welcome message.
 Button to enter the main Expense Tracker application.
 Home Page Displays a list of expense categories (e.g., Grocery, Household, Other).
